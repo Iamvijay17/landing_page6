@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+#loginParent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btnClr {
+  background: #42a7c3;
+  color: white;
+}
+
+
+nav{
+  font-family: 'Lato', sans-serif;
+}
